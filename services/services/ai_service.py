@@ -1,1 +1,1 @@
-
+"""AI service for HireLens."""
