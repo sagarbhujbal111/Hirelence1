@@ -1,1 +1,1 @@
-
+"""ResumeAI Blueprints Package."""
